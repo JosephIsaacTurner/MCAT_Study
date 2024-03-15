@@ -40,6 +40,78 @@ Explanation: Conjugated system in benzene ring means all carbons are sp2-hybridi
 
 Explanation: Only gases or aqueous solutions are included in the equilibrium constant expression. Solids and liquids are not included.
 
+### Question 6
+
+**Q:** Is the reaction `6CO2 + 6H2O + light -> C6H12O6 + 6O2` spontaneous, and does it increase/decrease entropy? `ΔG = +686 kcal/mol`. 
+
+**A:** The reaction is nonspontaneous and decreases entropy. It is nonspontaneous because ΔG is positive, and it decreases entropy because the products are more ordered than the reactants (solid glucose vs gaseous CO2, and fewer moles). 
+
+### Question 7
+
+**Q:** If the rate constant is in the units of s^-1, what is the order of the reaction?
+
+**A:** First order; Rate is always in units of M/s, so if S^-1 is the rate constant, the order is 1 to make the units match. Similarly, if 
+
+### Question 8
+
+**Q:** When phosphoric acid is titrated with a strong base, which of the following is the predominant compound present at the third equivalence point?
+
+**A:** Dihydrogen phosphate
+
+### Question 9
+
+**Q:** A molecule that picks up a proton is an:
+
+**A:**Both a Bronsted-Lowry base and a Lewis base, but not an Arrhenius base.
+
+### Question 10
+
+**Q:** Atomic oxygen is extremely reactive and not found in any significant quality on Earth's surface, because:
+
+**A:** It is a free radical (though it has six valence electrons, two are unpaired because of Hund's rule)
+
+### Question 11
+
+**Q:** In Potassium Nitrate, what is the oxidation state of nitrogen? (KNO3)
+
+**A:** +5, because K+ is +1 and O is always -2 unless it's in a peroxide (-1), so N must be +5 for it to be a neutral compound. 
+
+### Question 12
+
+**Q:** What hapepns if only part of a reaction mixture is transferred to a volumetric flask and optical rotation is measured?
+
+**A:** The observed rotation would decreased but specific rotation would remain the same. This is because specific rotation is standardized by dividing observed rotation by the concentration and path length.Concentration is in g/100mL, and path length is in decimeters, which is kind of unusual.
+
+### Question 13
+
+**Q:** The pKa of a weak acid in solution is 5.4. If the ratio of concentration of the weak acid to its conjugate base is 10:1, what is the pH of the solution?
+
+**A:** 4.4.
+
+### Question 14
+
+**Q:** Which of the following is correctly arranged in order of increasing melting point?
+
+**A:** Urea < Glucose < Lactose, (in order of molecular size essentially)
+
+### Question 15
+
+**Q:** Standard enthalpy of formation liquid water is -286 KJ/mol. Standard enthalpy of vaporization of liquid water is 44 kJ/mol. What is the standard enthalpy of formation of water vapor?
+
+**A:** -242 kJ/mol (ΔHfvapor = ΔHfliquid + ΔHvap)
+
+### Question 16
+
+**Q:** Where is the equivalence point on a titration curve? What does it tell you about an acid?
+
+**A:** Visually, it is the inflection point where the curve is steepest, where its tangent is vertical. If the equivalence point is greater than ph=7, the acid is a weak acid.
+
+### Question 17
+
+**Q:** If H2CO3 has pKa of 6.35, and HCO3- has a pKa of 10.33, do you want a higher proportion of H2CO3 or HCO3- to buffer a solution fo pH of 9.5?
+
+**A:** HCO3-, because it is closer to the desired pH. Equal concentrations of acid/conjugate base mean pH = pKa (half equivalance point), so shifting the equilibrium further to right requires more conjugate base.
+
 ## Organic Chemistry
 
 ### 1
@@ -63,6 +135,24 @@ Explanation: Fmoc is deprotected under mild, basic conditions, making it easier 
 
 Explanation: Conjugation delocalizes electrons, making Compound 2 overall nonpolar and soluble in organic solvents.
 
+### 4
+**Q:** TdT facilitates the addition of nucleotides to the 3' end of a DNA strand. What typ of reaction is it likely to catalyze?
+
+**A:** Nucleophilic substitution (the 3' OH group of the DNA strand is a nucleophile, and attacks the phosphate group of the incoming nucleotide, displacing the pyrophosphate group)
+
+### 5
+**Q:** When an acyl halide reacts with a primary alcohol, which of the following will form?
+
+**A:** An ester and a hydrogen halide.
+
+### 6
+**Q:** Sucrose does NOT produce a positive test when treated with Benedict's solution because:
+**A:** The carbonyl functionalities of both subunits are involved in the formation of a glycosidic linkage (no free hemiacetal or hemiketal groups)
+
+### 7
+**Q:** At which PPM range would you expect the H-NMR signal for a nitrogen bound to an amide?
+**A:** Between 6 and 9 PPM
+
 ## Enzymes
 
 ### 1
@@ -84,6 +174,9 @@ Explanation: The x-intercept is -1/Km, and the y-intercept is 1/Vmax. The closer
 **A:** The cell alters the concentration of the substrate (non-standard conditions). 
 
 Explanation: Enzymes can't change the ΔG, but you can change ΔG by changing the concentration of the reactants and products (non-standard conditions). The equation is `ΔG = ΔG° + RTln(Q).`
+
+### 4
+**Q:** 
 
 ## Physics
 
@@ -122,12 +215,49 @@ Explanation: The magnetic field at the center of a coil is directly proportional
 
 Explanation: Gravity will never stop pulling the ISS towards the earth, but its velocity keeps the acceleration due to gravity orthogonal to the velocity vector, so it keeps missing the earth and no work is done. However, atmospheric drag will slow it down, causing it to lose kinetic energy and spiral towards the earth.
 
-## Question 6
+### Question 6
 **Q:** While working with a device connected through a 3600 ohm resistor to the main DC power supply (160 V), an ISS crewmember simultaneously touches the ship's hull and an exposed wire positioned between the resistor and the device. Greater than 10 mA will cause severe damage-- more than 70 mA can stop the heart; Greater than 1 A can stop heart but usually not fatal. What is the maximum current that can flow through the crewmember's body?
 
 **A:** .044 A or 44 mA. This could cause severe damage but is not likely to be fatal. 
 
 Explanation: V = IR; I = V/R = 160 V / 3600 ohms = 0.044 A
+
+### Question 7
+**Q:** When head is erect, the center of mass is not directly over the base of support. Muscles of neck exert a force (F1) to keep head erect. What is the magnitude of this force, based on the figure?
+<img src="images/skull_support.png" width="150">
+
+**A:** 25 N; its a fulcrum, so F1 * d1 = F2 * d2; Solving for F1 = (F2 * d2) / d1 = (50 N * 2.5 cm) /5 cm = 25 N
+
+### Question 8
+**Q:** What is the equation for potential energy of a spring?
+
+**A:** U = 1/2 kx^2
+
+### Question 9
+**Q:** If two resistors are connected in series, what is the equivalent resistance?
+
+**A:** R1 + R2; The equivalent resistance is the sum of the individual resistances.
+
+### Question 10
+**Q:** An 80 kg human body uses about 14 MJ of energy per day. What is the average power of the human body?
+
+**A:** 162 W; 14 MJ / (24 hours * 60 minutes * 60 seconds) = 162 W
+
+### Question 11
+**Q:** An incompressible solid plastic bowling ball with a density of 1.32 g/cm3 is held at a depth of 10 meters in water. When released, the ball will:
+**A:** Sink with initial acceleration of 9.8 m/s^2
+
+### Question 12
+**Q:** A 6 V battery drives 3 A of current through a 2 ohm resistor. If another 2 ohm resistor is added in parallel with the first, how much power is being dissipated by the entire circuit?
+**A:** 36 W
+
+### Question 13
+**Q:** What is the formula for total resistance in a parallel circuit?
+**A:** 1/R = 1/R1 + 1/R2 + 1/R3 + ...
+
+### Question 14
+**Q:** The figure shows an arm holding a mass (5 kg). The bicep attaches 3.5 cm away from the join (x), and the mass is 35 cm away from the joint. How much work is done by the bicep in raising the mass 10 cm?
+**A:** 5 J
 
 ## Biochemistry
 
@@ -142,6 +272,36 @@ Explanation: Plug in the values and solve for π. But use kelvin (add 273).
 **Q:** Which of the following sturcutres represents beta-galactosidase?
 
 **A:** ![Beta-Galactosidase](images/b_galactosidase.png) (beta anomeric carbon, pyranose ring, galactose)
+
+### Question 3
+**Q:** PARPs repair damaged DNA; PARP inhibitors (like alaparib) are used in cancer therapy; which of the following statements best describes the mechanism of action of PARP inhibitors?
+
+**A:** PARP inhibitors inhibit repair of damaged DNA, possibly inducing apoptosis in cancer cells.
+
+### Question 4
+**Q:** Which of the following is a true statement about phospholipids and triglycerides?
+
+**A:** All griglycerides, but not all phospholipids, have a glycerol backbone.
+
+### Question 5
+**Q:** Partial hydrolysis of a heptapeptide yields the fragmetns Val-Gly-Pro, Pro-Ala-Gly, Ala-Val, and Gly-Gly. What is the sequence of the original heptapeptide?
+
+**A:** Ala-Val-Gly-Pro-Ala-Gly-Gly
+
+### Question 6
+**Q:** Researchers want to study the C14 that has been incorporated into the polysaccharides but not the monosacchardies, polypeptides, or nucleotides of some sample tissue. What experimental procedure would ensure they collect as much starting material as possible?
+
+**A:** Only isolate species that contain a number of carbohydrate-to-carbohydrate glycosidic bonds.
+
+### Question 7
+**Q:** Malonyl-CoA is produced from acetylaCoA through the action of Acetyl-CoA carboxylase. The byproducts of this reaction are:
+
+**A:** CO2 + ADP + Pi
+
+### Question 8
+**Q:** After using the Sanger (chain-termination) method for DNA sequencing, a researcher utilizes gel electrophoresis and obtains a single dark band. Which of the following sources of error is most likely?
+
+**A:** Dideoxynucleotides were omitted from the reaction mixture. (Dideoxynucleotides are chain-terminating nucleotides necessary for the Sanger method)
 
 ## Physiology
 
@@ -186,3 +346,160 @@ Explanation: T-cells (and most of the immune system) are derived from the mesode
 **A:** Left atrium
 
 Explanation: The mitral valve is the left AV valve; so stenosis would increase pressure in the left atrium.
+
+### Question 7
+**Q:** Why would using 32P labeled γ-phosphate dNTPs not be useful in determining the rate of DNA synthesis?
+
+**A:** The γ-phosphate is cleaved off after the nucleotide is incorporated into the DNA strand, so the label would be lost.
+
+### Question 8
+**Q:** If a neuron is first measured at normal resting potential, but later is found to require application of +3 mA of current to return to -60 mV, which of the following could explain the neuron's net ion flow between the two measurements?
+
+**A:** Positive ions flowed out of the cell.
+
+## Sociology
+
+### Question 1
+**Q:** Physicians are known to spend more time with patients of higher SES. Some say this can be explained by paternalism. Which of the following best illustrates the sociologist's explanation?
+
+**A:** Physicians usually mention only the "single best" treatment to patients from lower socioeconomic backgrounds, but provide more affluent patients with several options. This is paternalism, because the physician is making decisions for the patient, rather than with the patient.
+
+### Question 2
+**Q:** Suppose a group of individuals with personality disorders believed that their socially destructive behavior should have yielded neutral or positive social results with those around them, because of flawed upbringing. This could be most directly and simply explained within which of the following theoretical frameworks??
+
+**A:** Social cognitive perspective; This perspective is focused on how people learn from their social experiences, and how they develop and maintain certain behavioral patterns based on expectations from their social environment.
+
+### Question 3
+**Q:** Some Parkinson's patients were unable to manually complete the questionnaire, so their spouses filled it in with their responses. What confounding social process may have been introduced by this modification to the procedure?
+
+**A:** Impression management: Individuals may have been more honest when answering questions themselves, since their significant other was not privy to their answers.
+
+### Question 4
+**Q:** Which concept best describes the participants' mimicry of the ratings of the favorably received actor in the experiment?
+
+**A:** Identification: Outwardly accepting ideas of others even if they don't agree with them internally.
+
+### Question 5
+**Q:** In which stage of Demographic Transition Theory does population growth occur at the highest rate?
+
+**A:** Stage 2: High birth rates and low death rates lead to rapid population growth.
+
+### Question 6
+**Q:** To 'clean up' its image in anticipation of the 1964 World's Fair, New York City made tattooing illegal. This is an example of:
+
+**A:** Moral entrepreneurship; Moral entrepreneurs are people who lead a campaign to change the law, and in this case, the city made tattooing illegal to clean up its image.
+
+### Question 7
+**Q:** Children of aristocrats in late-nineteenth-century Britain engaged in a fad for small, expensive tattoos. Which of the following statements is most consistent with a symbolic interactionist analysis of this fad?
+
+**A:** The tattoos represented elite status and generational rebellion.
+
+### Question 8
+**Q:** The deindividuation that commonly occurs during riots and other violent crowd behavior most likely has a positive association with which concept?
+
+**A:** Anomie; Deindividuation is a loss of self-awareness and self-restraint in a group, and is associated with anomie, which is a state of normlessness.
+
+### Question 9
+**Q:** Suppose the researchers of the study are investigating the looking-glass self of self-concept. Which procedural modification would the researchers be most likely to make?
+
+**A:** Share the questionnaire results with the photographed subjects and conduct pre- and post- assessments on the subjects' self-concept.
+
+### Question 10
+**Q:** BAsed on information in the passage about Flint, Michigan, which concept or theory best explains the perpetuation of prejudicial attitudes regarding minorities?
+
+**A:** Observational learning
+
+### Question 11
+**Q:** Which of the following is a possible consequence of anomie? Excessive individualization, social isolation, social inequality?
+
+**A:** All of the above
+
+## Psych/Neuro
+
+### Question 1
+**Q:** Which of the following processes are related to serotonin function?
+
+**A:** Mood, appetite, and sleep
+
+### Question 2
+**Q:** Which of the following best supports the nativist theory of language acquisition?
+
+**A:** Young children are able to rearrange syntax to create novel sentences with the same meaning. This is an example of transformational grammar, which is a nativist theory of language acquisition.
+
+### Question 3
+**Q:** A 5 year old participant is told she will receive a candy bar is she correctly answers a question. What tactic is employed?
+
+**A:** Extrinsic motivation (she is motivated by an external reward). Note this isn't a form of conditioning, because conditioning requires repetition. 
+
+### Question 4
+**Q:** A longitudinal study tracks children from age 2 to the start of kindergarten to determine which factors predict school readiness, such as preschool attendance. Using the data collected, which of the following questions would the authors be bale to answer?
+
+**A:** Are complications at birth negatively correlated with cognitive ability at age 4?
+
+### Question 5
+**Q:** Which of the following processes best explains why a higher score on the Teaching and Interaciton dimension would have a positive impact on a child's expressive vocabulary?
+
+**A:** Modeling; Children learn by observing and imitating others, so a teacher who uses a rich vocabulary will help the child develop a rich vocabulary.
+
+### Question 6
+**Q:** A therapeutic patient suffering from depression is noted to have a pessimistic explanatory style. Which of the following would be most representative of a cognitive therapy for this patient?
+
+**A:** Helping patient understand that his negative experiences are not always his own fault. A pessimistic explanatory style means that you attribute negative events to internal, stable, and global causes. Cognitive therapy would help the patient understand that negative events are not always his fault.
+
+### Question 7
+**Q:** Which cluster of personality disorders would psychopathy best fall under?
+
+**A:** Cluster B; This cluster is characterized by dramatic, emotional, or erratic behavior, and includes antisocial, borderline, histrionic, and narcissistic personality disorders.
+
+### Question 8
+**Q:** Psychopathic indivudals with lower sympathetic responses to emotional stimuli are more likely to have the following characteristic during fear-conditioning experiments:
+
+**A:** Dry skin; The sympathetic nervous system is responsible for the fight or flight response, which includes increased sweating. Less sweating means less sympathetic response.
+
+### Question 9
+**Q:** Which of the following psychoactive drugs is most commonly associated with delusions of grandeur?
+
+**A:** Amphetamines: These drugs increase dopamine levels, which can lead to delusions of grandeur.
+
+### Question 10
+**Q:** Which of the following circumstances is most likely to result in prolonged cognitive dissonance?
+
+**A:** A divorced and lonely man is told by family members that there is someone out there for everyone.
+
+### Question 11
+**Q:** Which of the following reinforcement schedules is most resistant to extinction?
+
+**A:** Variable ratio reinforcement (better than variable interval, fixed ratio, or fixed interval).
+
+### Question 12
+**Q:** A researcher doubts merits of the childhood trauma hypothesis. Which of the following is NOT a reasonable criticism of the hypothesis?
+
+**A:** In order to establish causation, the afflicted would need to relive painful childhood memories. 
+
+### Question 13
+**Q:** A man lives alone and runs an online business, experiencing little social interaction. he makes enough money to buy food and pay for rent. He suffers from mild depression and has few creative outlets. Presently, according to Maslow's hierarchy of needs, the man is probably experiencing motivation to meet the need for:
+
+**A:** Intimacy (Love and belonging)
+
+### Question 14
+**Q:** Which language theory states that language development occurs due to preferential reinforcement of certain phonemes by parents and caregivers?
+
+**A:** Learning theory 
+
+### Question 15 
+**Q:** A college student strives for excellent grades and hopes to graduate with a better GPA than his brother. This type of motivation is considered:
+
+**A:** Extrinsic motivation
+
+### Question 16
+**Q:** Simultaneous processing of conscious emotions and physiological activation is the defining feature of which theory of emotion?
+
+**A:** Cannon-Bard theory
+
+### Question 17
+**Q:** Which of the following brain regions are primarily responsible for the experience of emotions EXCEPT the:
+
+**A:** Basal ganglia
+
+### Question 18
+**Q:** Determination of the intensity and risk of a stressor occurs during which stage(s) of stress appraisal? (Primary, secondary, both, neither)
