@@ -54,4 +54,46 @@
     - Sublimation: Redirecting unacceptable urges to more socially acceptable behavior
 
 **Jung**
-- 
+- Divided unconscious into personal and collective unconsciouses. The latter contains archetypes, universal symbols. 
+    - Persona: Mask we wear in public
+    - Anima: Feminine side
+    - Animus: Masculine side
+    - Shadow: Dark side
+- Self: Unification of the unconscious and conscious. Intersection of personal, colective, and conscious.
+- Word association testing: Respond to a word with the first word that comes to mind, reveals unconscious thoughts
+- Three dichotomies of personality: Extraversion vs introversion, sensing vs intuition, thinking vs feeling
+
+**Adler**
+- Inferiority complex: Motivation to overcome feelings of inferiority
+- Style of life: manifestation of creative self, unique way of achieving superiority
+- Fictional finalism: Individual is motivated more by future than past. Llife would be perfect if only...
+
+**Horney**
+- Neurotic needs: Needs that are irrational, lead to maladaptive behavior
+- Basic anxiety: Anxiety caused by inadequate parenting
+- Basic hostility: Child's anger toward parents
+- Object relations theory: Personality is shaped by social relationships early in life
+
+**Humanism**
+- AKA as third force psychology, in response to psychoanalysis and behaviorism, or gestalt psychology
+- Force field theory: Personality is the result of the interaction between opposing forces at any given time, not fixed
+- Maslow believed in 'peak experiences', profound and deeply moving experiences in a person's life that have important and lasting effects on the individual
+- Personal construct psychology: George Kelly thought people are like scientists creating constructs of how significant people in their lives behave, and then use these constructs to predict future behavior
+
+**Type theories**
+- Somatotypes: Body type related to personality
+- Cardinal traits: Dominant traits that influence all of a person's behaviors
+- Central traits: General characteristics that are easy to infer, such as honesty
+- Secondary traits: Only appear in certain situations
+- Functional autonomy: Behavior continues even if the original motive is removed
+
+**Behaviorism**
+- Personality arises from operant conditioning
+- Token economies: Rewarding good behavior with tokens that can be exchanged for privileges
+
+**Social cognitive perspective**
+- Personality arises from reciprocal interaction between behavior, cognition, and environment
+- Reciprocal determinism: Behavior, cognition, and environment all influence each other
+
+**Biological perspective**
+- Personality arises from genetics and neurobiology
