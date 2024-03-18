@@ -112,6 +112,16 @@ Explanation: Only gases or aqueous solutions are included in the equilibrium con
 
 **A:** HCO3-, because it is closer to the desired pH. Equal concentrations of acid/conjugate base mean pH = pKa (half equivalance point), so shifting the equilibrium further to right requires more conjugate base.
 
+### Question 18
+
+**Q:** In their pure liquid states, which would exhibit greater surface tension: Glycerol or phosphatidic acid?
+
+**A:** Glycerol, because it is capable of hydrogen bonding with itself, while pure phosphatidic acid is not, even though it is charged (h-bonds are probably more important anyway)
+
+### Question 19
+**Q:** A student performs a titration with a base as the titrant and an acid as the analyte. He finds taht the pH at the equivalence point is 8.3, and concludes that he was adding naOH to HF. Which of the following observations made during the titration does NOT support his conclusion?
+**A:** To reach the equivalent point, 10 mL of base (0.5 M) was added to 5 mL of acid (.25 M). This is too much base to be the equivalence point for that amount of acid.
+
 ## Organic Chemistry
 
 ### 1
@@ -152,6 +162,10 @@ Explanation: Conjugation delocalizes electrons, making Compound 2 overall nonpol
 ### 7
 **Q:** At which PPM range would you expect the H-NMR signal for a nitrogen bound to an amide?
 **A:** Between 6 and 9 PPM
+
+### Question 8
+**Q:** Pyrocalciferol and lumisterol, which are diastereomers, can best be separated on the basis of:
+**A:** Different physical properties, such as boiling point
 
 ## Enzymes
 
@@ -259,6 +273,18 @@ Explanation: V = IR; I = V/R = 160 V / 3600 ohms = 0.044 A
 **Q:** The figure shows an arm holding a mass (5 kg). The bicep attaches 3.5 cm away from the join (x), and the mass is 35 cm away from the joint. How much work is done by the bicep in raising the mass 10 cm?
 **A:** 5 J
 
+### Question 15
+**Q:** If the elastic component of the models were removed, which of the following would be true of the viscous component?
+**A:** Rate of flow would be proportional to the pressure difference between adjacent locations until flow becomes turbulent. 
+
+### Question 16
+**Q:** Melanin was studied to determine its absorptive ability. It is known that Vitamin D production is best between 270 and 330 nm. Melanin absorbs its peak at about 300 to 400 nm; Which condition would be most likely to produce the most Vitamin D3?
+**A:** Low epidermal melanin concentrations and exposure to 320 nm light.
+
+### Question 17
+**Q:** Which of the following is not equivalent to 1 T?
+
+
 ## Biochemistry
 
 ### Question 1
@@ -302,6 +328,11 @@ Explanation: Plug in the values and solve for π. But use kelvin (add 273).
 **Q:** After using the Sanger (chain-termination) method for DNA sequencing, a researcher utilizes gel electrophoresis and obtains a single dark band. Which of the following sources of error is most likely?
 
 **A:** Dideoxynucleotides were omitted from the reaction mixture. (Dideoxynucleotides are chain-terminating nucleotides necessary for the Sanger method)
+
+### Question 9
+**Q:** The cytochrome P450scc complex is always active, and its activity will NOT be limited by low concentrations of: (NADP+ or O2). Note that passage says that the complex requires electrons.
+
+**A:** NADP+; NADPH could be limiting, but NADP+ is not involved in the reaction.
 
 ## Physiology
 
@@ -356,6 +387,10 @@ Explanation: The mitral valve is the left AV valve; so stenosis would increase p
 **Q:** If a neuron is first measured at normal resting potential, but later is found to require application of +3 mA of current to return to -60 mV, which of the following could explain the neuron's net ion flow between the two measurements?
 
 **A:** Positive ions flowed out of the cell.
+
+### Question 9
+**Q:** In order to be transported from the skin to the liver via the bloodstream, vitamin D3 (which is a fat-soluble vitamin derived from cholesterol) must be:
+**A:** Travel through circulatory system attached to a vitamin D-binding protein; the blood is aqueous, and lipophilic molecules need to be transported by proteins. 
 
 ## Sociology
 
