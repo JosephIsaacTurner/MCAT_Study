@@ -1,6 +1,8 @@
 ## Psychological, Social, and Biological Foundations of Behavior
 
 ### Identity
+**Hierarchy of salience:** We let the situation dictate which identity holds the most importance for us at any given moment.
+
 **Freud**
 - Libido: sexual energy, present from birth
 - Oral stage (0-1): pleasure form mouth. Fixation leads to dependency
